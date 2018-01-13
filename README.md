@@ -26,7 +26,7 @@ Python
 
 ## Setup
 In order to start using this application, you need to do the following:
-* Clone the code (repository) from Github to your computer `git clone https://github.com/SweetmanTech/Local-Weather-App.git`
+* Clone the code (repository) from Github to your computer `git clone https://github.com/SweetmanTech/iot-grower.git`
 * `cd iot-grower`
 * Install dependencies: `npm install`
 * run the application on your local machine: `npm start`
