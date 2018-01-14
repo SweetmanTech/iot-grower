@@ -1,3 +1,5 @@
+LIVE: https://senseat-c1c06.firebaseapp.com/
+
 # IoT Grower Web Application
 
 This is a web-based React App I've built to present Senseat through a Web Interface.
